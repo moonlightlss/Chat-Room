@@ -10,6 +10,7 @@
       <td>1</td>
       <td>编码规范</td>
       <td>C++编码规范-陈航</td>
+      <a href="https://www.baidu.com/">https://www.baidu.com/</a>
       <td>http://svn.ruijie.net/svn/RCD/Version/文档归档/流程文档/培训类/编码规范/C++编码规范-陈航</td>
    </tr>
    <tr>
